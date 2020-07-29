@@ -1,0 +1,5 @@
+Defect density can be defined as the number of confirmed bugs in a software application or module during the period of development, divided by the size of the software. Defect density is counted per thousand lines of code, also known as KLOC.
+Defect Density = Defect count/size of the release
+USES
+ - For comparing the relative number of defects in various software components so that high-risk components can be identified and resources focused on them.
+ - For comparing software/products so that the quality of each software/product can be quantified and resources focused towards those with low quality
