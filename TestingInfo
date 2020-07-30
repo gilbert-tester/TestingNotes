@@ -1,0 +1,48 @@
+TestingInfo
+
+In Top-Down integration testing, the testing takes place from top to bottom, following the control flow of the software system. Here only the top module is unit tested in isolation, after which, the lower modules are integrated one by one. 
+This process is repeated until all the modules are integrated and tested. The main module is used as a test driver and stubs are substituted for all components directly subordinated to the main control. 
+Stubs are replaced one at a time with actual components. These stubs are the modules that act as a temporary replacement for a called module and give the same output as that of actual product.
+
+
+Approaches of Integration Testing
+ Big Bang Approach :
+ Incremental Approach: further divided into the following
+ Top Down Approach
+ Bottom Up Approach
+ Sandwich Approach - Combination of Top Down and Bottom Up
+
+
+Code Injection
+Code Injection is the general term for attack types which consist of injecting code that is then interpreted/executed by the application. This type of attack exploits poor handling of untrusted data. These types of attacks are usually made possible due to a lack of proper input/output data validation, for example:
+allowed characters (standard regular expressions classes or custom)
+data format
+amount of expected data
+Know This -> https://owasp.org/www-community/attacks/Code_Injection
+
+
+//FrameworkInfo
+https://www.logigear.com/blog/test-automation/building-a-selenium-framework-from-a-to-z/
+
+Confirmation Testing
+Also known as re-testing. Confirmation Testing is done to make sure that the test cases which failed in the last execution are passing after the defects against those failures are fixed.
+For Example: Suppose you were testing some software application and you found some defect
+1. You log a defect in the bug tracking tool
+2. Developer fixes the defect and provides you with the official testable build
+3. You need to re-run the failed test cases to make sure that the previous failures are gone
+This is known as confirmation Testing or Re-testing
+
+Cyclomatic complexity - It is the measure of the number of independent paths in an application or program. This metric provides an indication of the amount of effort required to test complete functionality.
+Consider for example a code with no if-else statements. Since the entire code always executes i.e. only one decision point, the Cyclomatic complexity of the program is 1. 
+If there is one if-else statement, the code can only execute one of those blocks and never both. Because there are two decision points, the complexity of this code is 2.
+Complex code is always difficult to maintain and modify and test. So it is good to keep the CC no low.
+Tools for calculating Cyclomatic Complexity:
+Checkstyle
+Cobertura
+Findbugs
+Sonar
+Jarchitect
+
+Denial of Service
+a denial-of-service attack (DoS attack) is a cyber-attack in which the perpetrator seeks to make a machine or network resource unavailable to its intended users by temporarily or indefinitely disrupting services of a host connected to the Internet. Denial of service is typically accomplished by flooding the targeted machine or resource with superfluous requests in an attempt to overload systems and prevent some or all legitimate requests from being fulfilled
+In a distributed denial-of-service attack (DDoS attack), the incoming traffic flooding the victim originates from many different sources. This effectively makes it impossible to stop the attack simply by blocking a single source.
