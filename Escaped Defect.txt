@@ -1,0 +1,2 @@
+Escaped Defect
+An escaped defect is a defect that was NOT found by, or one that escaped from, the quality assurance team. Typically, those issues are found by end-users after the released version has made available to them.
