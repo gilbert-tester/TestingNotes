@@ -1,0 +1,7 @@
+Blue-Green Deployment
+How it works (image) - https://automationstepbystep.com/2020/04/13/what-is-blue-green-deployment/
+It is a method of installing changes to an application or server by swapping alternating production and staging servers.
+In this method, two identical production environments work in parallel.
+One is the currently-running production environment receiving all user traffic (Blue). The other is a clone of it, but idle (Green). Both use the same database back-end and app configuration.
+The new version of the application is deployed in the green environment and tested for functionality and performance. Once the testing results are successful, application traffic is routed from blue to green. Green then becomes the new production.
+If there is an issue after green becomes live, traffic can be routed back to blue.
