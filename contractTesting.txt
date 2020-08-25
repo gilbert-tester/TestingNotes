@@ -1,0 +1,1 @@
+Contract testing is a process of testing the communication between two services (microservices) based on a set of rules called Contract.
