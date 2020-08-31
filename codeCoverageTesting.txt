@@ -1,0 +1,17 @@
+Code Coverage Testing
+This testing checks how much code is executed or exercised during testing
+It is a measure used to describe the degree to which the source code of a program is executed when a particular test suite runs
+Basic coverage criteria
+There are a number of coverage criteria, the main ones being:
+Function coverage – has each function in the program been called?
+Statement coverage – has each statement in the program been executed?
+Edge coverage – has every edge in the Control flow graph been executed?
+Branch coverage – has each branch of each control structure (such as in if and case statements) been executed? For example, given an if statement, have both the true and false branches been executed? This is a subset of edge coverage.
+Condition coverage (or predicate coverage) – has each Boolean sub-expression evaluated both to true and false?
+
+Code Coverage = (Number of lines of code exercised)/(Total Number of lines of code) * 100%
+There are different tools used for code coverage in different programming languages like
+EMMA
+Cobertura
+JaCoCo
+Clover
