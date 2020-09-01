@@ -1,0 +1,8 @@
+Age Testing
+It is a process to check how significantly the performance of a software/application may drop as the system gets older.
+It is to check how the software would behave in the future.
+With the help of this testing report, we would be able to take the necessary steps to update, modify and add new features to the software which can eventually help us to continue with the software without any interruption in future.
+Major areas to check
+Platform Support
+Security
+Obsolete libraries
