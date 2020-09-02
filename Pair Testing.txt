@@ -1,0 +1,4 @@
+Pair Testing
+It is a technique where two team members work together at one system to test the software application.
+Typically, they share one computer and trade control of it while testing. One tester can act as an observer when the other performs tests.
+This can be done between one tester and developer or business analyst or between two testers
