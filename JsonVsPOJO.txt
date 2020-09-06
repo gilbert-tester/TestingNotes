@@ -1,0 +1,4 @@
+JSON path good for validating few particular fields. But for ex if your response has 100 fields then it is not good to write validations for 100 fields
+Same applies for pojo also
+In our project we use JSON assert that compares whole JSON we pass expected JSON and actual JSON it asserts
+Very good and efficient
