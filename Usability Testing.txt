@@ -1,0 +1,3 @@
+Usability Testing
+It is a non-functional testing technique that is a measure of how easily the system can be used by end-users.
+Users are asked to complete tasks, typically while they are being observed, to see where they encounter problems and experience confusion. If more people encounter similar problems, recommendations will be made to overcome these usability issues
