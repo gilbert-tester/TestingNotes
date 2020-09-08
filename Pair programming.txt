@@ -1,0 +1,2 @@
+Pair programming
+A software development approach where two developers sit together at one computer while programming a new system. While one developer codes, the other makes comments and observations. The technique has been shown to lead to higher quality thanks to the real-time and continuous code review, bugs and errors are avoided because the team catches them as the code is written.
