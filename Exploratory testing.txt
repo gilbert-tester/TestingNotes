@@ -1,0 +1,12 @@
+Exploratory testing
+Often performed as a black box testing technique, the tester explore the system as end users, learns with experience and can show creativity
+Benefits:
+Following are the benefits of Exploratory Testing:
+Exploratory testing takes less preparation.
+Critical defects are found very quickly.
+The testers can use reasoning based approach on the results of previous results to guide their future testing on the fly.
+Drawbacks:
+Following are the Drawbacks of Exploratory Testing:
+Tests cannot be reviewed.
+It is difficult to keep track of what tests have been tested.
+It is unlikely to be performed in exactly the same manner and to repeat specific details of the earlier tests.
