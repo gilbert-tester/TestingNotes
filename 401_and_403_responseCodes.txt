@@ -1,0 +1,2 @@
+The 401 (Unauthorized) status code indicates that the request not applied because it lacks valid authentication credentials for the target resource.
+The 403 (Forbidden) status code indicates that the server understood the request but refuses to authorize it.
