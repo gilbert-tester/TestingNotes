@@ -1,0 +1,1 @@
+Fault Injection is the process of intentionally adding defects to a system for the purpose of finding out whether the system can detect, and possibly recover from, a defect.
