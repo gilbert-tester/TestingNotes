@@ -1,0 +1,4 @@
+CMMI
+Originally created for the U.S. Department of Defense to assess the quality and capability of their software contractors, CMMI models have expanded beyond software engineering to help any organization in any industry build, improve, and measure their capabilities and improve performance.
+CMMI, is a process model that provides a clear definition of what an organization should do to promote behaviors that lead to improved performance.
+The Capability Maturity Model Integration covers best-practices for planning, engineering and managing product development and maintenance.
