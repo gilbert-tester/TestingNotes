@@ -1,0 +1,3 @@
+Account Harvesting
+Account Harvesting is the process of gathering user accounts from a system, service, or database using a variety of methods, such as malware or phishing.
+Often used to refer to computer spammers, individuals who try to sell or seduce others through email advertising or solicitation. Account harvesting involves using computer programs to search areas on the Internet in order to gather lists of email addresses from a number of sources, including chat rooms, domain names, instant message users, message boards, newsgroups, online directories for Web pages, Web pages, and other online destinations. Recent studies have shown that newsgroups and chat rooms, in particular, are great resources for harvesting email addresses.
