@@ -1,0 +1,3 @@
+Crowd Testing
+Crowdtesting (or crowdsourced testing), is a practice that harnesses the efficiency and advantages of crowdsourcing for software testing. Software such as mobile apps, SaaS, native desktop applications, or websites in various stages of development, is distributed to a large group of people. The people in this group, the crowd testers, run the software on their own computers or mobile phones to inspect it for defects and areas for potential improvement.
+This method of testing is considered when the software is more user-centric: i.e., software whose success is determined by its user feedback and which has a diverse userspace
