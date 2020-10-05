@@ -1,0 +1,7 @@
+Confirmation Testing
+Confirmation testing is also known as re-testing. Confirmation Testing is done to make sure that the tests cases which failed in last execution are passing after the defects against those failures are fixed.
+For Example: Suppose you were testing some software application and you found some defect
+1. You log a defect in the bug tracking tool
+2. Developer fixes the defect and provides you with the official testable build
+3. You need to re-run the failed test cases to make sure that the previous failures are gone
+This is known as confirmation Testing or Re-testing
