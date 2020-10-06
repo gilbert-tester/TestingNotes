@@ -1,0 +1,9 @@
+Cyclomatic complexity - It is the measure of the number of independent paths in an application or program. This metric provides an indication of the amount of effort required to test complete functionality.
+Consider for example a code with no if-else statements. Since the entire code always executes i.e. only one decision point, the Cyclomatic complexity of the program is 1. If there is one if-else statement, the code can only execute one of those blocks and never both. Because there are two decision points, the complexity of this code is 2.
+Complex code is always difficult to maintain and modify and test. So it is good to keep the CC no low
+Tools for calculating Cyclomatic Complexity:
+Checkstyle
+Cobertura
+Findbugs
+Sonar
+Jarchitect
