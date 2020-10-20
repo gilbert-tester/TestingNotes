@@ -1,0 +1,2 @@
+Fault Tolerance
+Is the property that enables a system to continue operating properly in the event of the failure or faults in the system or env.
