@@ -1,0 +1,5 @@
+Equivalence Partitioning
+See an image here - https://automationstepbystep.com/2020/04/14/what-is-equivalence-partitioning/
+It is a software testing technique that divides the input data of a test into partitions of equivalent data from which test cases can be derived.
+This comes under the Black-box testing technique.
+Here the test data is divided into partitions and the test cases are designed to cover each partition at least once.
