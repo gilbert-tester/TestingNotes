@@ -1,0 +1,3 @@
+White Box Testing
+https://automationstepbystep.com/2020/04/16/what-is-white-box-testing/
+In White box testing the internal structure, code, design and implementation of the application/product is known to the tester. This type of testing is named so because the tester can see inside the system.
